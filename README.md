@@ -21,7 +21,7 @@
 <br/><br/>
 
 ### 🗺 메뉴 구조도
-<img width=100%, height=400px, src="https://github.com/21-bomi/Android-Studio/blob/main/app/src/main/res/drawable/menu.png"><br/><br/>
+<img width=100%, height=400px, src="https://github.com/21-bomi/Mini-project/blob/main/src/image/menu2.png"><br/><br/>
 
 ### 💻 기술 스택
 - **OS:** &nbsp;&nbsp;![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
