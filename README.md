@@ -33,7 +33,7 @@
 
 ### ✨ 주요 기능 및 이미지
 📌 Home<br/>
-<img width=100% src=https://github.com/21-bomi/Android-Studio/blob/main/app/src/main/res/drawable/main.png><br/><br/>
+<img width=100% src=https://github.com/21-bomi/Mini-project/blob/main/src/image/home.png><br/><br/>
 - **메뉴바:** 게시판 및 페이지를 이용할 수 있는 메뉴 바 구현<br/>
 - **버튼:** 버튼을 눌러 원하는 게시판에 들어갈 수 있도록 구현<br/>
 - **게시글 목록:** 사용자가 등록한 중고 물품 목록을 조회<br/>
@@ -41,17 +41,18 @@
 
 📌 게시글 작성<br/>
 <div style="display: flex; justify-content: space-between;">
-  <img width=100% src="https://github.com/21-bomi/Android-Studio/blob/main/app/src/main/res/drawable/find2.png">
+  <img width=100% src="https://github.com/21-bomi/Mini-project/blob/main/src/image/write.png">
 </div><br/>
 - **게시글 작성:** 사용자가 새로운 중고 물품을 등록할 수 있는 기능<br/>
 
 📌 Mypage<br/>
 <div style="display: flex; justify-content: space-between;">
-  <img width=100% src="https://github.com/21-bomi/Android-Studio/blob/main/app/src/main/res/drawable/mypage.png">
+  <img width=100% src="https://github.com/21-bomi/Mini-project/blob/main/src/image/mypage2.png">
 </div><br/>
 - **마이페이지:** 사용자의 정보 조회 및 수정<br/><br/><br/>
 
-### 🎧 시연영상</a>
+### 🎧 시연영상
+<a href="https://youtu.be/TwP26d-zVdE">시연 영상 보기</a>
 </br></br>
 
 ## ⚙️ 프로젝트 설치 및 실행 방법
